@@ -1,7 +1,7 @@
 {
   "name": "rfmedina-storybook",
-  "version": "0.1.0",
-  "main": "src/index.jsx",
+  "version": "0.1.1",
+  "main": "./dist/index.js",
   "private": false,
   "dependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "files": [
-    "dist"
+    "./dist"
   ],
   "scripts": {
     "start": "start-storybook -p 6006 -s public",
