@@ -9,7 +9,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "vite": "^4.1.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -50,17 +49,14 @@
     "@storybook/addon-essentials": "^6.5.16",
     "@storybook/addon-interactions": "^6.5.16",
     "@storybook/addon-links": "^6.5.16",
-    "@storybook/addons": "^6.5.16",
-    "@storybook/builder-vite": "^0.4.2",
+    "@storybook/builder-webpack5": "^6.5.16",
+    "@storybook/manager-webpack5": "^6.5.16",
     "@storybook/node-logger": "^6.5.16",
     "@storybook/preset-create-react-app": "^4.1.2",
     "@storybook/react": "^6.5.16",
     "@storybook/testing-library": "0.0.13",
-    "@storybook/theming": "^6.5.16",
-    "@vitejs/plugin-react": "^3.1.0",
     "babel-plugin-named-exports-order": "0.0.2",
-    "gh-pages": "^5.0.0",
     "prop-types": "^15.8.1",
-    "storybook-builder-vite": "^0.1.23"
+    "webpack": "^5.76.1"
   }
 }
