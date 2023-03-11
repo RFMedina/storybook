@@ -1,6 +1,6 @@
 {
-  "name": "rfmedina-storybook",
-  "version": "0.1.4",
+  "name": "@rfmedina/storybook",
+  "version": "0.1.7",
   "main": "./dist/index.js",
   "private": false,
   "dependencies": {
